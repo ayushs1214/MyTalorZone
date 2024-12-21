@@ -1,4 +1,3 @@
-```markdown
 # MyTaylorZone - Premium Fashion E-commerce Platform
 
 A modern and premium e-commerce platform tailored for the MyTaylorZone clothing brand, offering a seamless shopping experience, user-friendly design, and responsive functionality. Built with a robust tech stack to ensure scalability, performance, and security.
@@ -112,7 +111,7 @@ A modern and premium e-commerce platform tailored for the MyTaylorZone clothing 
    ```bash
    git clone https://github.com/ayushs1214/MyTalorZone.git
    cd MyTaylorZone
-   ```
+
 
 2. **Install Dependencies**
    Install required packages using npm or yarn:
