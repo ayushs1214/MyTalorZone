@@ -4,7 +4,8 @@ A modern and premium e-commerce platform tailored for the MyTaylorZone clothing 
 
 ## 🌐 Live Link
 
-[Visit MyTaylorZone](https://my-talor-zone.vercel.app/)
+[Vercel](https://my-talor-zone.vercel.app/)
+[Netlify](https://silver-tarsier-cc0889.netlify.app/)
 
 ---
 
