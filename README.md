@@ -4,8 +4,9 @@ A modern and premium e-commerce platform tailored for the MyTaylorZone clothing 
 
 ## 🌐 Live Link
 
-[Vercel](https://my-talor-zone.vercel.app/)
-[Netlify](https://silver-tarsier-cc0889.netlify.app/)
+[Vercel](https://my-talor-zone.vercel.app/) [Less Responsive]
+
+[Netlify](https://silver-tarsier-cc0889.netlify.app/) [More Responsive]
 
 ---
 
@@ -227,3 +228,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 For support, please contact **ayushietetsec@gmail.com**.
 ```
 
+Made with ❤️ by Ayush Singh
